@@ -1,0 +1,13 @@
+{
+  "itemGroup.somnia": "Example Mod Tab",
+  "block.somnia.example_block": "Example Block",
+  "item.somnia.example_item": "Example Item",
+
+  "somnia.configuration.title": "Somnia Configs",
+  "somnia.configuration.section.somnia.common.toml": "Somnia Configs",
+  "somnia.configuration.section.somnia.common.toml.title": "Somnia Configs",
+  "somnia.configuration.items": "Item List",
+  "somnia.configuration.logDirtBlock": "Log Dirt Block",
+  "somnia.configuration.magicNumberIntroduction": "Magic Number Text",
+  "somnia.configuration.magicNumber": "Magic Number"
+}
