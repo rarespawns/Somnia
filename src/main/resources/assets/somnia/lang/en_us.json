@@ -1,7 +1,5 @@
 {
-  "itemGroup.somnia": "Example Mod Tab",
-  "block.somnia.example_block": "Example Block",
-  "item.somnia.example_item": "Example Item",
+  "item.somnia.dream_essence": "Dream Essence",
 
   "somnia.configuration.title": "Somnia Configs",
   "somnia.configuration.section.somnia.common.toml": "Somnia Configs",
